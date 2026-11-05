@@ -1,6 +1,6 @@
-# Mystwood
+# What is this?
 
-An addon for Not So Seecret Saturday (NSSS) a1.1.12.
+Mystwood is a mod for Not So Seecret Saturday (NSSS) a1.1.12.
 
 ## How to install
 
